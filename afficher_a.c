@@ -10,4 +10,5 @@ int		main()
 	write(1, "a",1);
 	i--;
 	}
+	write(1, "\n", 1);
 }
