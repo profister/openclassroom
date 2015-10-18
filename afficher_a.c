@@ -2,5 +2,12 @@
 
 int		main()
 {
-	write(1, "a\n", 2);
+	int i;
+
+	i = 5;
+	while( i >= 0)
+	{
+	write(1, "a",1);
+	i--;
+	}
 }
